@@ -205,3 +205,21 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# ROS2/build artifacts
+build/
+install/
+log/
+*.log
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# (Optional) Simulation/output/bag/log files
+*.csv
+*.bag
