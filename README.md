@@ -66,7 +66,8 @@ ros2_ws/
 
 1. **Clone this repository and enter the workspace folder:**
     ```bash
-    git clone https://github.com/romankalyna/Planar-4dof-arm-in-ros2.git
+    git clone
+https://github.com/romankalyna/Simulation-and-control-of-4-DOF-robotic-arm.git 
     cd Planar-4dof-arm-in-ros2  # or 'ros2_ws' if you rename it
     ```
 
